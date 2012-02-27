@@ -1,0 +1,9 @@
+1.0 - Initial release to market for testing purposes
+1.1 - Added menu key(s) in schedule and tracking to switch views
+1.2 - Cleaned source... a lot. Removed all hard coded strings. [Will be very easy to translate if desired]
+lowered api level. going to try froyo. Many theme improvements. Removed toast popups [was mainly for debugging]. 
+Fixed tracking so it doesn't reload if screen is rotated. 
+
+
+<link href="file:///android_asset/css/default.css" rel="stylesheet" type="text/css" />
+<link href="../../assets/css/default.css" rel="stylesheet" type="text/css" />

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="routes">
+        <item name="1">Route 1</item>
+        <item name="2">Route 2</item>
+        <item name="3">Route 3</item>
+        <item name="4">Route 4</item>
+        <item name="5">Route 5</item>
+        <item name="7">Route 7</item>
+        <item name="8">Route 8</item> 
+        <item name="W">Weekend</item>       
+    </string-array>
+</resources>

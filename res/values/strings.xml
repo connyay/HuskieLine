@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huskie Line</string>
+    <string name="spinHead">Huskie Line Helper</string>
+    <string name="spinSchedButton">Bus Schedule</string>
+    <string name="spinTrackButton">Bus Tracking</string>
+
+</resources>
